@@ -1,0 +1,11 @@
+.git
+.gitignore
+.DS_Store
+.cover
+.elixir_ls/
+_build/
+deps/
+README*
+test/
+terraform/
+docs/
