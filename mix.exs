@@ -51,7 +51,7 @@ defmodule Api.MixProject do
       {:mox, "~> 1.0", only: :test},
       {:ex_machina, "~> 2.4", only: :test},
       {:ex_doc, "~> 0.22", only: :dev, runtime: false},
-      {:credo, "~> 1.5.0-rc.2", only: [:dev, :test], runtime: false},
+      {:credo, "~> 1.6.7", only: [:dev, :test], runtime: false},
       {:dialyxir, "~> 1.0", only: [:dev], runtime: false},
       {:excoveralls, "~> 0.10", only: :test},
       {:cors_plug, "~> 2.0"},
